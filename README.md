@@ -235,9 +235,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -254,6 +251,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Repository Mirror** is not a judge — it's a mentor.  
 *It tells developers where they stand and exactly how to level up.*
 
-[🌟 Star this repo](https://github.com/yourusername/repository-mirror) | [🐛 Report Bug](https://github.com/yourusername/repository-mirror/issues) | [💡 Request Feature](https://github.com/yourusername/repository-mirror/issues)
+
 
 </div>
